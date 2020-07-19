@@ -17,61 +17,8 @@ Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, fe
 */
 
 
-/* Link Styling */
-a,
-a:active,
-a:visited {
-    color: #000080;
-}
-
-a:hover {
-    color: #ffd700;
-}
+/* Fix Elementor link blue box issue */
 
 a:focus {
     outline: none;
-}
-
-/* Heading H1-H6 Styling */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: Georgia, serif;
-    color: #3a3a3a;
-    line-height: 35px;
-    font-weight: 500;
-    letter-spacing: 1px;
-}
-
-h1 {
-    font-size: 40px;
-    line-height: 1.3;
-}
-
-h2 {
-    font-size: 30px;
-    line-height: 1.3;
-}
-
-h3 {
-    font-size: 25px;
-    line-height: 1.4;
-}
-
-h4 {
-    font-size: 22px;
-    line-height: 1.5;
-}
-
-h5 {
-    font-size: 20px;
-    line-height: 1.6;
-}
-
-h6 {
-    font-size: 18px;
-    line-height: 1.2;
 }
